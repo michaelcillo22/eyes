@@ -8,3 +8,6 @@
 1. Include a funny picture
 2. Stage the eyes part directory onto the funny pictures accordingly.
 3. Make it come alive with more movement as you scroll through the page.
+
+## License 
+MiT License 2022
